@@ -1,0 +1,52 @@
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\webSolicitudAulas.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\webSolicitudAulas.pdb
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\Antlr3.Runtime.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\AspNet.ScriptManager.jQuery.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\DotNetOpenAuth.AspNet.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\DotNetOpenAuth.Core.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\DotNetOpenAuth.OAuth.Consumer.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\DotNetOpenAuth.OAuth.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\DotNetOpenAuth.OpenId.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\EntityFramework.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\Microsoft.AspNet.FriendlyUrls.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\Microsoft.ScriptManager.MSAjax.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\Microsoft.ScriptManager.WebForms.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\Microsoft.Web.Infrastructure.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\System.Web.Optimization.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\System.Web.Providers.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\WebGrease.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\EntityFramework.xml
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\DotNetOpenAuth.Core.xml
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\DotNetOpenAuth.OAuth.xml
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\DotNetOpenAuth.OAuth.Consumer.xml
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\DotNetOpenAuth.OpenId.xml
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\DotNetOpenAuth.AspNet.xml
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\Microsoft.AspNet.FriendlyUrls.xml
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\es\EntityFramework.resources.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\es\System.Web.Optimization.resources.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\es\System.Web.Providers.resources.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\obj\Debug\webSolicitudAulas.csprojResolveAssemblyReference.cache
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\obj\Debug\webSolicitudAulas.dll
+d:\rvelasquez\documents\visual studio 2012\Projects\webSolicitudAulas\webSolicitudAulas\obj\Debug\webSolicitudAulas.pdb
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\bin\webSolicitudAulas.dll
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\bin\webSolicitudAulas.pdb
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\bin\Antlr3.Runtime.dll
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\bin\AspNet.ScriptManager.jQuery.dll
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\bin\Microsoft.ScriptManager.WebForms.dll
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\bin\Microsoft.Web.Infrastructure.dll
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\bin\System.Web.Optimization.dll
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\bin\System.Web.Providers.dll
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\bin\WebGrease.dll
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\bin\es\System.Web.Optimization.resources.dll
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\bin\es\System.Web.Providers.resources.dll
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\obj\Debug\webSolicitudAulas.dll
+D:\RVelasquez\Documents\00PERSONAL\PROYECTOS\IACYM\webSolicitudAulas\webSolicitudAulas\obj\Debug\webSolicitudAulas.pdb
